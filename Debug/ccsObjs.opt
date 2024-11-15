@@ -1,0 +1,1 @@
+"./CookieProject_DevInit.obj" "./DelayUs.obj" "./F2837xD_GlobalVariableDefs.obj" "./Messages.obj" "./SCI_Fxns.obj" "./main.obj" "../F2837xD_Headers_BIOS_cpu1.cmd" "../TMS320F28379D.cmd" -l"configPkg/linker.cmd" -llibc.a 
