@@ -291,7 +291,7 @@ void decrementTime(void)
         if (stage2) {
             suck(yes_please);          // Activate suction
             sendCMD(the_x, down);      // Move arm down to pick up cookie
-            stage_timer2 = 1000;       // Timer until cookie pickup is complete
+            stage_timer2 = 800;       // Timer until cookie pickup is complete
             stage2 = FALSE;
         }
 
