@@ -8,6 +8,7 @@ This project uses a **Raspberry Pi** and **TI C2000 microcontroller** to detect 
 - [Hardware Requirements](#hardware-requirements)
 - [Software Requirements](#software-requirements)
 - [Installation and Setup](#installation-and-setup)
+- [Demo Video](#demo-video)
 - [Usage](#usage)
 
 ## Project Overview
