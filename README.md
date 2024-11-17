@@ -48,6 +48,11 @@ This system combines image processing, real-time data transmission, and robotics
     - Open the project in **TI Code Composer Studio**.
     - Build and upload the RTOS code to the C2000.
 
+## Demo Video
+**Initial test of the system**
+
+![Demo Video](first_test.gif)
+
 ## Usage
 1. Start the Python script on the Raspberry Pi:
     ```bash
